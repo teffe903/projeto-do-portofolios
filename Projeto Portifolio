@@ -11,12 +11,10 @@
 
 <body>
     <header class="container">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
+        <img src="img/avatar-perfil.png" alt="avatar da Estefani" srcset="">
         <p>Eu sou Estefani_</p>
         <h1>Eu aprendo Programação no alura</h1>
-        <p>Sou Estudante do Ensino  médio pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
-            que já desenvolvi!</p>
+        <p>Sou Estudante do Ensino  médio pensamento </p>
         <p>Minhas habilidades</p>
         <div>
             <p>HTML</p>
